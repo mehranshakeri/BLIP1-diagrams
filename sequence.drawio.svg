@@ -1,0 +1,398 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1118px" height="961px" viewBox="-0.5 -0.5 1118 961" content="&lt;mxfile pages=&quot;2&quot;&gt;&lt;diagram id=&quot;8GjeXVdxXtVlz31yC4Vb&quot; name=&quot;sequence&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <rect x="889" y="640" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="10px">
+            <text x="938.5" y="657.5">
+                Import Customs
+            </text>
+            <text x="938.5" y="669.5">
+                Declration
+            </text>
+        </g>
+        <rect x="528" y="720" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="10px">
+            <text x="577.5" y="737.5">
+                Transit Customs
+            </text>
+            <text x="577.5" y="749.5">
+                Declration
+            </text>
+        </g>
+        <rect x="37" y="580" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="10px">
+            <text x="86.5" y="597.5">
+                Export Customs
+            </text>
+            <text x="86.5" y="609.5">
+                Declartion
+            </text>
+        </g>
+        <rect x="37" y="520" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="10px">
+            <text x="86.5" y="543.5">
+                Certificate of Origin
+            </text>
+        </g>
+        <path d="M 287 540 L 227 540 Q 217 540 217 530 L 217 463" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="217" cy="460" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <rect x="287" y="520" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="10px">
+            <text x="336.5" y="543.5">
+                Certificate of Origin
+            </text>
+        </g>
+        <path d="M 27 20 L 27 0 L 397 0 L 397 20" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 27 20 L 27 960 L 397 960 L 397 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 20 L 397 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 40 L 27 20 L 157 20 L 157 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 40 L 27 960 L 157 960 L 157 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 40 L 157 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="91.5" y="34.5">
+                Supplier/Exporter
+            </text>
+        </g>
+        <rect x="42" y="60" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="91.5" y="83.5">
+                Master Agreement
+            </text>
+        </g>
+        <path d="M 92 120 L 92 103" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="92" cy="100" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="none"/>
+        <rect x="42" y="120" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="91.5" y="143.5">
+                Catalogue
+            </text>
+        </g>
+        <path d="M 92 180 L 92 163" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="92" cy="160" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="none"/>
+        <rect x="42" y="180" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="91.5" y="203.5">
+                Line Item
+            </text>
+        </g>
+        <path d="M 92 240 L 92 223" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="92" cy="220" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="none"/>
+        <rect x="42" y="240" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="91.5" y="263.5">
+                Order
+            </text>
+        </g>
+        <path d="M 92 300 L 92 283" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="92" cy="280" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="none"/>
+        <rect x="42" y="300" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="91.5" y="323.5">
+                Transportation Order
+            </text>
+        </g>
+        <path d="M 92 360 L 92 343" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="92" cy="340" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="none"/>
+        <rect x="42" y="360" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="91.5" y="383.5">
+                Dispatch Advice
+            </text>
+        </g>
+        <path d="M 135.75 52.92 L 139.08 56.25 L 126.58 68.75 L 122 70 L 123.25 65.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 136.17 52.5 L 138.67 50 L 142 53.33 L 139.5 55.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 135.75 112.92 L 139.08 116.25 L 126.58 128.75 L 122 130 L 123.25 125.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 136.17 112.5 L 138.67 110 L 142 113.33 L 139.5 115.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 135.75 172.92 L 139.08 176.25 L 126.58 188.75 L 122 190 L 123.25 185.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 136.17 172.5 L 138.67 170 L 142 173.33 L 139.5 175.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 135.75 232.92 L 139.08 236.25 L 126.58 248.75 L 122 250 L 123.25 245.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 136.17 232.5 L 138.67 230 L 142 233.33 L 139.5 235.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 135.75 352.92 L 139.08 356.25 L 126.58 368.75 L 122 370 L 123.25 365.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 136.17 352.5 L 138.67 350 L 142 353.33 L 139.5 355.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 135.75 292.92 L 139.08 296.25 L 126.58 308.75 L 122 310 L 123.25 305.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 136.17 292.5 L 138.67 290 L 142 293.33 L 139.5 295.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 135.75 512.92 L 139.08 516.25 L 126.58 528.75 L 122 530 L 123.25 525.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 136.17 512.5 L 138.67 510 L 142 513.33 L 139.5 515.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 135.75 572.92 L 139.08 576.25 L 126.58 588.75 L 122 590 L 123.25 585.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 136.17 572.5 L 138.67 570 L 142 573.33 L 139.5 575.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 157 40 L 157 20 L 277 20 L 277 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 157 40 L 157 960 L 277 960 L 277 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 157 40 L 277 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="216.5" y="34.5">
+                Carrier
+            </text>
+        </g>
+        <rect x="167" y="300" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="216.5" y="323.5">
+                Transportation Order
+            </text>
+        </g>
+        <rect x="167" y="360" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="216.5" y="383.5">
+                Dispatch Advice
+            </text>
+        </g>
+        <rect x="167" y="420" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="216.5" y="443.5">
+                BillOfLading
+            </text>
+        </g>
+        <rect x="167" y="800" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="216.5" y="823.5">
+                Receipt Advice
+            </text>
+        </g>
+        <path d="M 260.75 352.92 L 264.08 356.25 L 251.58 368.75 L 247 370 L 248.25 365.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 261.17 352.5 L 263.67 350 L 267 353.33 L 264.5 355.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 260.75 292.92 L 264.08 296.25 L 251.58 308.75 L 247 310 L 248.25 305.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 261.17 292.5 L 263.67 290 L 267 293.33 L 264.5 295.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 260.75 412.92 L 264.08 416.25 L 251.58 428.75 L 247 430 L 248.25 425.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 261.17 412.5 L 263.67 410 L 267 413.33 L 264.5 415.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 260.75 792.92 L 264.08 796.25 L 251.58 808.75 L 247 810 L 248.25 805.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 261.17 792.5 L 263.67 790 L 267 793.33 L 264.5 795.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 277 40 L 277 20 L 397 20 L 397 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 277 40 L 277 960 L 397 960 L 397 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 277 40 L 397 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="336.5" y="34.5">
+                OriginAuthority
+            </text>
+        </g>
+        <path d="M 370.75 512.92 L 374.08 516.25 L 361.58 528.75 L 357 530 L 358.25 525.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 371.17 512.5 L 373.67 510 L 377 513.33 L 374.5 515.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 167 440 L 102 440 Q 92 440 92 430 L 92 403" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="92" cy="400" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="none"/>
+        <path d="M 397 20 L 397 0 L 757 0 L 757 20" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 397 20 L 397 960 L 757 960 L 757 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 397 20 L 757 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 397 40 L 397 20 L 517 20 L 517 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 397 40 L 397 960 L 517 960 L 517 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 397 40 L 517 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="456.5" y="34.5">
+                ExportCustoms
+            </text>
+        </g>
+        <path d="M 517 40 L 517 20 L 637 20 L 637 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 517 40 L 517 960 L 637 960 L 637 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 517 40 L 637 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="576.5" y="34.5">
+                TransitCustoms
+            </text>
+        </g>
+        <path d="M 621.75 712.92 L 625.08 716.25 L 612.58 728.75 L 608 730 L 609.25 725.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 622.17 712.5 L 624.67 710 L 628 713.33 L 625.5 715.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 637 40 L 637 20 L 757 20 L 757 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 637 40 L 637 960 L 757 960 L 757 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 637 40 L 757 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="696.5" y="34.5">
+                ImportCustoms
+            </text>
+        </g>
+        <rect x="647" y="640" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="696.5" y="657.5">
+                Import Customs
+            </text>
+            <text x="696.5" y="669.5">
+                Declration
+            </text>
+        </g>
+        <rect x="647" y="520" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="696.5" y="543.5">
+                Certificate of Origin
+            </text>
+        </g>
+        <path d="M 740.75 632.92 L 744.08 636.25 L 731.58 648.75 L 727 650 L 728.25 645.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 741.17 632.5 L 743.67 630 L 747 633.33 L 744.5 635.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 757 20 L 757 0 L 1117 0 L 1117 20" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 757 20 L 757 960 L 1117 960 L 1117 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 757 20 L 1117 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 757 40 L 757 20 L 877 20 L 877 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 757 40 L 757 960 L 877 960 L 877 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 757 40 L 877 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="816.5" y="34.5">
+                Payment Provider
+            </text>
+        </g>
+        <rect x="767" y="860" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="816.5" y="883.5">
+                Payment
+            </text>
+        </g>
+        <path d="M 877 40 L 877 20 L 997 20 L 997 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 877 40 L 877 960 L 997 960 L 997 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 877 40 L 997 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="936.5" y="34.5">
+                Buyer/Importer
+            </text>
+        </g>
+        <rect x="887" y="360" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="936.5" y="383.5">
+                Dispatch Advice
+            </text>
+        </g>
+        <rect x="887" y="60" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="936.5" y="83.5">
+                Master Agreement
+            </text>
+        </g>
+        <rect x="887" y="120" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="936.5" y="143.5">
+                Catalogue
+            </text>
+        </g>
+        <rect x="887" y="180" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="936.5" y="203.5">
+                Line Item
+            </text>
+        </g>
+        <rect x="887" y="240" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="936.5" y="263.5">
+                Order
+            </text>
+        </g>
+        <rect x="887" y="420" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="936.5" y="443.5">
+                BillOfLading
+            </text>
+        </g>
+        <rect x="887" y="860" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="936.5" y="883.5">
+                Payment
+            </text>
+        </g>
+        <rect x="887" y="800" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="936.5" y="823.5">
+                Receipt Advice
+            </text>
+        </g>
+        <path d="M 910.75 52.92 L 914.08 56.25 L 901.58 68.75 L 897 70 L 898.25 65.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 911.17 52.5 L 913.67 50 L 917 53.33 L 914.5 55.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 910.75 112.92 L 914.08 116.25 L 901.58 128.75 L 897 130 L 898.25 125.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 911.17 112.5 L 913.67 110 L 917 113.33 L 914.5 115.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 910.75 172.92 L 914.08 176.25 L 901.58 188.75 L 897 190 L 898.25 185.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 911.17 172.5 L 913.67 170 L 917 173.33 L 914.5 175.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 910.75 232.92 L 914.08 236.25 L 901.58 248.75 L 897 250 L 898.25 245.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 911.17 232.5 L 913.67 230 L 917 233.33 L 914.5 235.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 980.75 632.92 L 984.08 636.25 L 971.58 648.75 L 967 650 L 968.25 645.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 981.17 632.5 L 983.67 630 L 987 633.33 L 984.5 635.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 980.75 792.92 L 984.08 796.25 L 971.58 808.75 L 967 810 L 968.25 805.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 981.17 792.5 L 983.67 790 L 987 793.33 L 984.5 795.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 970.75 852.92 L 974.08 856.25 L 961.58 868.75 L 957 870 L 958.25 865.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 971.17 852.5 L 973.67 850 L 977 853.33 L 974.5 855.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 822 859.5 L 812 859.5 L 812 825 Q 812 815 822 815 L 867.5 815 L 867.5 804.5 L 886.5 820 L 867.5 835.5 L 867.5 825 L 822 825 Z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 867.5 815 L 867.5 804.5 L 886.5 820 L 867.5 835.5 L 867.5 825" fill="none" stroke="#000000" stroke-linejoin="flat" stroke-miterlimit="4" pointer-events="none"/>
+        <path d="M 997 40 L 997 20 L 1117 20 L 1117 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 997 40 L 997 960 L 1117 960 L 1117 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 997 40 L 1117 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1056.5" y="34.5">
+                CCSM
+            </text>
+        </g>
+        <rect x="1007" y="240" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="1056.5" y="263.5">
+                Order
+            </text>
+        </g>
+        <rect x="1007" y="420" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="1056.5" y="443.5">
+                BillOfLading
+            </text>
+        </g>
+        <rect x="1007" y="860" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="1056.5" y="883.5">
+                Payment
+            </text>
+        </g>
+        <rect x="1007" y="800" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="1056.5" y="823.5">
+                Receipt Advice
+            </text>
+        </g>
+        <rect x="407" y="520" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="456.5" y="543.5">
+                Certificate of Origin
+            </text>
+        </g>
+        <rect x="528" y="520" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="577.5" y="543.5">
+                Certificate of Origin
+            </text>
+        </g>
+        <rect x="407" y="590" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="456.5" y="607.5">
+                Export Customs
+            </text>
+            <text x="456.5" y="619.5">
+                Declartion
+            </text>
+        </g>
+        <rect x="889" y="520" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="938.5" y="543.5">
+                Certificate of Origin
+            </text>
+        </g>
+        <rect x="37" y="720" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="86.5" y="737.5">
+                Transit Customs
+            </text>
+            <text x="86.5" y="749.5">
+                Declration
+            </text>
+        </g>
+        <path d="M 37 820 L 17 820 Q 7 820 7 810 L 7 610 Q 7 600 7 590 L 7 390 Q 7 380 17 380 L 39 380" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="42" cy="380" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="none"/>
+        <rect x="37" y="800" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="86.5" y="823.5">
+                Receipt Advice
+            </text>
+        </g>
+        <path d="M 87 860 L 87 843" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="87" cy="840" rx="3" ry="3" fill="#000000" stroke="#000000" pointer-events="none"/>
+        <rect x="37" y="860" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="10px">
+            <text x="86.5" y="883.5">
+                Payment
+            </text>
+        </g>
+        <path d="M 406.5 605 L 406.5 615 L 372 615 Q 362 615 362 605 L 362 579.5 L 351.5 579.5 L 367 560.5 L 382.5 579.5 L 372 579.5 L 372 605 Z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 362 579.5 L 351.5 579.5 L 367 560.5 L 382.5 579.5 L 372 579.5" fill="none" stroke="#000000" stroke-linejoin="flat" stroke-miterlimit="4" pointer-events="none"/>
+        <path d="M 646.5 655 L 646.5 665 L 342 665 Q 332 665 332 655 L 332 579.5 L 321.5 579.5 L 337 560.5 L 352.5 579.5 L 342 579.5 L 342 655 Z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 332 579.5 L 321.5 579.5 L 337 560.5 L 352.5 579.5 L 342 579.5" fill="none" stroke="#000000" stroke-linejoin="flat" stroke-miterlimit="4" pointer-events="none"/>
+        <path d="M 526.5 735 L 526.5 745 L 312 745 Q 302 745 302 735 L 302 579.5 L 291.5 579.5 L 307 560.5 L 322.5 579.5 L 312 579.5 L 312 735 Z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 302 579.5 L 291.5 579.5 L 307 560.5 L 322.5 579.5 L 312 579.5" fill="none" stroke="#000000" stroke-linejoin="flat" stroke-miterlimit="4" pointer-events="none"/>
+        <path d="M 510.75 582.92 L 514.08 586.25 L 501.58 598.75 L 497 600 L 498.25 595.42 Z" fill="#737373" stroke="none" pointer-events="none"/>
+        <path d="M 511.17 582.5 L 513.67 580 L 517 583.33 L 514.5 585.83 Z" fill="#737373" stroke="none" pointer-events="none"/>
+    </g>
+</svg>
